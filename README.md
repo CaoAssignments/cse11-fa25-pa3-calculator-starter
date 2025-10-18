@@ -1,7 +1,5 @@
 # CSE 11 Fall 2025 PA3 - Calculator
 **Due date: Thursday, October 23 @ 11:59PM PDT**
-
-There is an [FAQ post](https://piazza.com/class/lfx8rc63u25xd/post/99) on Piazza. Please read that post first if you have any questions.
  
 ## Provided Files
 None
